@@ -1,0 +1,20 @@
+h1 {
+  color: #851532;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 25px;
+  font-style: oblique;
+  text-align: center;
+}
+
+h3 {
+  color: #db4068;
+  text-align: center;
+}
+
+a {
+  color: #d45577;
+}
+
+body {
+  background-color: #e0c1c9
+}
